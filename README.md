@@ -6,7 +6,7 @@ Olá, me chamo João, mas me Chamam de Jota! ✨
 Aqui estão algumas idéias para você começar:
 
 - 🔭 Atualmente estou trabalhando em 
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100" />
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="20" />
           
 - 🌱 Atualmente estou aprendendo a melhorias em codigos para poder aumentar my WorkFlow
 - 🤔 Estou procurando ajuda com Projetos Relacionado a Empreasa Max Fibra 
